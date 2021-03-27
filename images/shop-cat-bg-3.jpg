@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="ro-RO" class="no-js scheme_default">
+<head>
+			<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta name="format-detection" content="telephone=no">
+		<link rel="profile" href="//gmpg.org/xfn/11">
+		<link rel="pingback" href="https://www.ilcantuccio.ro/xmlrpc.php">
+		<title>Pagină negăsită &#8211; Il Cantuccio</title>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Il Cantuccio &raquo; Flux" href="https://www.ilcantuccio.ro/feed/">
+<link rel="alternate" type="application/rss+xml" title="Il Cantuccio &raquo; Flux comentarii" href="https://www.ilcantuccio.ro/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ilcantuccio.ro\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link property="stylesheet" rel="stylesheet" id="vc_extensions_cqbundle_adminicon-css" href="../css/admin_icon.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="sb_instagram_styles-css" href="../css/sbi-styles.min.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="wp-block-library-css" href="../css/style.min.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="wc-block-vendors-style-css" href="../css/vendors-style.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="wc-block-style-css" href="../css/style_1.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="contact-form-7-css" href="../css/styles.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="essential-grid-plugin-settings-css" href="../css/settings.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="tp-fontello-css" href="../css/fontello.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="rs-plugin-settings-css" href="../css/rs6.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link property="stylesheet" rel="stylesheet" id="trx_addons-icons-css" href="../css/trx_addons_icons-embedded.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="swiperslider-css" href="../css/swiper.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="magnific-popup-css" href="../css/magnific-popup.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="trx_addons-css" href="../css/trx_addons.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="trx_addons-animation-css" href="../css/trx_addons.animation.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="woocommerce-layout-css" href="../css/woocommerce-layout.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="woocommerce-smallscreen-css" href="../css/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)">
+<link property="stylesheet" rel="stylesheet" id="woocommerce-general-css" href="../css/woocommerce.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link property="stylesheet" rel="stylesheet" id="parent-style-css" href="../css/style_2.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="popup-maker-site-css" href="../css/pum-site-styles.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="fooddy-font-google_fonts-css" href="../css/css.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="fontello-icons-css" href="../css/fontello-embedded.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="fooddy-styles-css" href="../css/__styles.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="fooddy-main-css" href="../css/style_3.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="fooddy-child-css" href="../css/style.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="fooddy-colors-css" href="../css/__colors.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="mediaelement-css" href="../css/mediaelementplayer-legacy.min.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="wp-mediaelement-css" href="../css/wp-mediaelement.min.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="fooddy-responsive-css" href="../css/responsive.css" type="text/css" media="all">
+<script type="text/javascript" src="../js/jquery.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="../js/rbtools.min.js" id="tp-tools-js"></script>
+<script type="text/javascript" src="../js/rs6.min.js" id="revmin-js"></script>
+<script type="text/javascript" src="../js/jquery.blockUI.min.js" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Vezi co\u0219ul","cart_url":"https:\/\/www.ilcantuccio.ro\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/add-to-cart.min.js" id="wc-add-to-cart-js"></script>
+<script type="text/javascript" src="../js/woocommerce-add-to-cart.js" id="vc_woocommerce-add-to-cart-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.ilcantuccio.ro/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ilcantuccio.ro/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ilcantuccio.ro/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.5.3">
+<meta name="generator" content="WooCommerce 4.9.1">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #353130; }
+</style>
+	<meta name="generator" content="Powered by Slider Revolution 6.2.23 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<link rel="icon" href="cropped-slide31-32x32.jpg" sizes="32x32">
+<link rel="icon" href="cropped-slide31-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="cropped-slide31-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://www.ilcantuccio.ro/wp-content/uploads/revslider/slider3/cropped-slide31-270x270.jpg">
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style type="text/css" id="trx_addons-inline-styles-inline-css">.vc_custom_1486461101895{background-image: url(main_bg.jpg) !important;}.vc_custom_1487256896480{background-color: #ffffff !important;}.vc_custom_1486464309994{background: #f7f7f7 url(home2_slide1.jpg) !important;}.vc_custom_1486466968728{background-image: url(main_bg.jpg) !important;}.vc_custom_1486470009579{background-image: url(main_bg.jpg) !important;}.vc_custom_1612753888014{margin-bottom: -0.1rem !important;}.vc_custom_1613718441206{margin-right: 15px !important;}.vc_custom_1487255099849{margin-bottom: 0.4rem !important;}</style></head>
+
+<body class="error404 custom-background theme-fooddy woocommerce-no-js body_tag scheme_default blog_mode_blog body_style_wide  is_stream blog_style_excerpt sidebar_hide expand_content header_style_header-custom-21 header_position_default menu_style_top no_layout wpb-js-composer js-comp-ver-6.4.1 vc_responsive">
+    
+	
+	<div class="body_wrap">
+
+		<div class="page_wrap">
+
+			<header class="top_panel top_panel_custom top_panel_custom_21 without_bg_image scheme_default"><div class="vc_row wpb_row vc_row-fluid vc_custom_1486461101895 vc_row-has-fill sc_layouts_row sc_layouts_row_type_narrow"><div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column sc_layouts_column_align_center sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="sc_content_183843187" class="sc_content sc_content_default sc_float_center sc_content_width_1_1"><div class="sc_content_container"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 sc_layouts_column sc_layouts_column_align_left sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="sc_layouts_item"><div id="sc_layouts_iconed_text_348382934" class="sc_layouts_iconed_text"><span class="sc_layouts_item_details sc_layouts_iconed_text_details"><span class="sc_layouts_item_details_line1 sc_layouts_iconed_text_line1">Rezervări şi comenzi:</span></span><!-- /.sc_layouts_iconed_text_details --></div><!-- /.sc_layouts_iconed_text --></div><div class="sc_layouts_item"><div id="sc_layouts_iconed_text_865947543" class="sc_layouts_iconed_text"><a href="tel:0721251823" class="sc_layouts_item_link sc_layouts_iconed_text_link"><span class="sc_layouts_item_icon sc_layouts_iconed_text_icon icon-phone"></span><span class="sc_layouts_item_details sc_layouts_iconed_text_details"><span class="sc_layouts_item_details_line2 sc_layouts_iconed_text_line2">0721 251 823</span></span><!-- /.sc_layouts_iconed_text_details --></a></div><!-- /.sc_layouts_iconed_text --></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 sc_layouts_column sc_layouts_column_align_right sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="sc_layouts_item"><div id="sc_socials_1937502957" class="sc_socials sc_socials_default"><div class="socials_wrap"><span class="social_item"><a href="https://www.facebook.com/IlCantuccioRistorante" target="_blank" class="social_icons"><span class="fab fa-facebook-square"></span></a></span><span class="social_item"><a href="https://www.instagram.com/restaurant_ilcantuccio/" target="_blank" class="social_icons"><span class="fab fa-instagram"></span></a></span><span class="social_item"><a href="https://www.tripadvisor.com/restaurant_review-g294458-d1070433-reviews-Il_Cantuccio_Ristorante-Bucharest.html" target="_blank" class="social_icons"><span class="fab fa-tripadvisor"></span></a></span></div><!-- /.socials_wrap --></div><!-- /.sc_socials --></div>
+	<div class="wpb_single_image wpb_content_element vc_align_right   floatright">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://www.tripadvisor.com/restaurant_review-g294458-d1070433-reviews-Il_Cantuccio_Ristorante-Bucharest.html" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img width="50" height="50" src="trip.png" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy"></a>
+		</figure>
+	</div>
+</div></div></div></div></div></div><!-- /.sc_content --></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1487256896480 vc_row-has-fill sc_layouts_row sc_layouts_row_type_compact sc_layouts_row_delimiter sc_layouts_row_fixed"><div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="sc_content_1848113327" class="sc_content sc_content_default sc_float_center sc_content_width_1_1"><div class="sc_content_container"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-2 sc_layouts_column sc_layouts_column_align_left sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="sc_layouts_item"><a href="https://www.ilcantuccio.ro/" id="sc_layouts_logo_116004421" class="sc_layouts_logo sc_layouts_logo_default"><img class="logo_image" src="logo-black.png" alt="" width="180" height="80"></a><!-- /.sc_layouts_logo --></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-10 sc_layouts_column sc_layouts_column_align_right sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="sc_layouts_item"><nav id="sc_layouts_menu_704378713" class="sc_layouts_menu sc_layouts_menu_default menu_hover_roll_down hide_on_mobile" data-animation-in="fadeInUpSmall" data-animation-out="fadeOutDownSmall"><ul id="menu-main-menu" class="sc_layouts_menu_nav"><li id="menu-item-1616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1616"><a href="https://www.ilcantuccio.ro/"><span>Home</span></a></li><li id="menu-item-1681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1681"><a href="https://www.ilcantuccio.ro/meniu/"><span>Livrări</span></a></li><li id="menu-item-1617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1617"><a href="https://www.ilcantuccio.ro/Meniu%20IL%20CANTUCCIO.pdf"><span>Meniu a la carte</span></a></li><li id="menu-item-1843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1843"><a href="https://www.ilcantuccio.ro/mese-festive/"><span>Mese festive</span></a></li><li id="menu-item-2785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2785"><a href="https://www.ilcantuccio.ro/galerie/"><span>Galerie Foto</span></a></li><li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="https://www.ilcantuccio.ro/contacts/"><span>Contact</span></a></li></ul></nav><!-- /.sc_layouts_menu --><div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button">
+		<a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
+			<span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
+		</a>
+	</div></div><div class="sc_layouts_item sc_layouts_hide_on_mobile sc_layouts_hide_on_tablet"><div id="sc_layouts_cart_643823183" class="sc_layouts_cart hide_on_tablet hide_on_mobile  vc_custom_1487262977435">
+		<span class="sc_layouts_item_icon sc_layouts_cart_icon trx_addons_icon-basket"></span>
+		<span class="sc_layouts_item_details sc_layouts_cart_details">
+			<span class="sc_layouts_item_details_line1 sc_layouts_cart_label">Cart:</span>
+			<span class="sc_layouts_item_details_line2 sc_layouts_cart_totals">
+				<span class="sc_layouts_cart_items">0 items</span>
+				- 
+				<span class="sc_layouts_cart_summa">0.00&nbsp;lei</span>
+			</span>
+		</span><!-- /.sc_layouts_cart_details -->
+		<span class="sc_layouts_cart_items_short">0</span>
+		<div class="sc_layouts_cart_widget widget_area">
+			<span class="sc_layouts_cart_widget_close trx_addons_icon-cancel"></span>
+			<div class="widget woocommerce widget_shopping_cart"><div class="hide_cart_widget_if_empty"><div class="widget_shopping_cart_content"></div></div></div>		</div><!-- /.sc_layouts_cart_widget -->
+	</div><!-- /.sc_layouts_cart --></div><div class="vc_empty_space" style="height: 0.55rem"><span class="vc_empty_space_inner"></span></div></div></div></div></div></div></div><!-- /.sc_content --></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1486464309994 vc_row-has-fill sc_layouts_row sc_layouts_row_type_normal sc_layouts_hide_on_frontpage scheme_dark"><div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column sc_layouts_column_align_center sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="sc_content_269894735" class="sc_content sc_content_default sc_float_center sc_content_width_1_1"><div class="sc_content_container"><div class="sc_layouts_item"><div id="sc_layouts_title_1363804348" class="sc_layouts_title"><div class="sc_layouts_title_title">			<h1 class="sc_layouts_title_caption">URL not found</h1>
+			</div><div class="sc_layouts_title_breadcrumbs"><div class="breadcrumbs"><a class="breadcrumbs_item home" href="https://www.ilcantuccio.ro/">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">URL not found</span></div></div></div><!-- /.sc_layouts_title --></div></div></div><!-- /.sc_content --></div></div></div></div></header><div class="menu_mobile_overlay"></div>
+<div class="menu_mobile menu_mobile_fullscreen scheme_dark">
+	<div class="menu_mobile_inner">
+		<a class="menu_mobile_close icon-cancel"></a><a class="sc_layouts_logo" href="https://www.ilcantuccio.ro/"><span class="logo_text">Il Cantuccio</span></a><nav class="menu_mobile_nav_area"><ul id="menu_mobile-main-menu" class=""><li id="menu_mobile-item-1616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1616"><a href="https://www.ilcantuccio.ro/"><span>Home</span></a></li><li id="menu_mobile-item-1681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1681"><a href="https://www.ilcantuccio.ro/meniu/"><span>Livrări</span></a></li><li id="menu_mobile-item-1617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1617"><a href="https://www.ilcantuccio.ro/Meniu%20IL%20CANTUCCIO.pdf"><span>Meniu a la carte</span></a></li><li id="menu_mobile-item-1843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1843"><a href="https://www.ilcantuccio.ro/mese-festive/"><span>Mese festive</span></a></li><li id="menu_mobile-item-2785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2785"><a href="https://www.ilcantuccio.ro/galerie/"><span>Galerie Foto</span></a></li><li id="menu_mobile-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="https://www.ilcantuccio.ro/contacts/"><span>Contact</span></a></li></ul></nav><div class="search_wrap search_style_normal search_mobile">
+	<div class="search_form_wrap">
+		<form role="search" method="get" class="search_form" action="https://www.ilcantuccio.ro/">
+			<input type="text" class="search_field" placeholder="Search" value="" name="s">
+                            <button type="submit" class="search_submit trx_addons_icon-search"></button>
+            					</form>
+	</div>
+	</div><div class="socials_mobile"><span class="social_item"><a href="https://www.facebook.com/IlCantuccioRistorante" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a></span><span class="social_item"><a href="https://www.instagram.com/restaurant_ilcantuccio/" target="_blank" class="social_icons social_instagram"><span class="trx_addons_icon-instagram"></span></a></span></div>	</div>
+</div>
+
+			<div class="page_content_wrap scheme_default">
+
+								<div class="content_wrap">
+				
+									
+
+					<div class="content">
+										
+<article class="post_item_single post_item_404 post-0 unknown type-unknown status-publish hentry">
+	<div class="post_content">
+		<h1 class="page_title">404</h1>
+		<div class="page_info">
+			<h1 class="page_subtitle">Oops...</h1>
+			<p class="page_description">We're sorry, but <br>something went wrong.</p>
+			<a href="https://www.ilcantuccio.ro/" class="go_home theme_button">Homepage</a>
+		</div>
+	</div>
+</article>
+				
+					</div><!-- </.content> -->
+
+					</div><!-- </.content_wrap> -->			</div><!-- </.page_content_wrap> -->
+
+			<footer class="footer_wrap footer_custom footer_custom_9 scheme_dark">
+	<div class="vc_row wpb_row vc_row-fluid vc_custom_1486466968728 vc_row-has-fill sc_layouts_row sc_layouts_row_type_narrow"><div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column sc_layouts_column_align_center sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="sc_content_1158096680" class="sc_content sc_content_default sc_float_center sc_content_width_1_1"><div class="sc_content_container"><div class="vc_empty_space  height_medium" style="height: 0px"><span class="vc_empty_space_inner"></span></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-5 vc_col-md-5 sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: right;">Str. Fabrica de Chibrituri nr. 2<br>
+Sector 4, Bucureşti</p>
+
+		</div>
+	</div>
+<div class="vc_empty_space  height_small" style="height: 0px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-2 vc_col-md-2 sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="180" height="80" src="logo-black.png" class="vc_single_image-img attachment-full" alt="" loading="lazy"></div>
+		</figure>
+	</div>
+<div class="vc_empty_space  height_small" style="height: 0px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-5 vc_col-md-5 sc_layouts_column sc_layouts_column_align_left sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1612753888014">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">Pentru rezervări şi comenzi:</p>
+
+		</div>
+	</div>
+<div class="sc_layouts_item"><div id="sc_layouts_iconed_text_1833055590" class="sc_layouts_iconed_text"><a href="tel:0721251823" class="sc_layouts_item_link sc_layouts_iconed_text_link"><span class="sc_layouts_item_icon sc_layouts_iconed_text_icon icon-phone"></span><span class="sc_layouts_item_details sc_layouts_iconed_text_details"><span class="sc_layouts_item_details_line2 sc_layouts_iconed_text_line2">0721 251 823</span></span><!-- /.sc_layouts_iconed_text_details --></a></div><!-- /.sc_layouts_iconed_text --></div><div class="vc_empty_space  height_small" style="height: 0px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4 sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="sc_layouts_item"><div id="widget_socials_972608264" class="widget_area sc_widget_socials vc_widget_socials wpb_content_element"><aside id="widget_socials_972608264_widget" class="widget widget_socials"><div class="socials_wrap sc_align_center"><span class="social_item"><a href="https://www.facebook.com/IlCantuccioRistorante" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a></span><span class="social_item"><a href="https://www.instagram.com/restaurant_ilcantuccio/" target="_blank" class="social_icons social_instagram"><span class="trx_addons_icon-instagram"></span></a></span></div></aside></div></div>
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1613718441206">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://www.tripadvisor.com/restaurant_review-g294458-d1070433-reviews-Il_Cantuccio_Ristorante-Bucharest.html" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img width="92" height="50" src="origtrip.png" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy" srcset="origtrip.png 92w, origtrip-90x50.png 90w" sizes="(max-width: 92px) 100vw, 92px"></a>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div></div></div><!-- /.sc_content --></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1486470009579 vc_row-has-fill sc_layouts_row sc_layouts_row_type_narrow"><div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column sc_layouts_column_align_center sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_wp_text wpb_content_element"><div class="widget widget_text">			<div class="textwidget"><p><a href="https://ilcantuccio.ro" target="_blank" rel="noopener noreferrer">Il Cantuccio</a> © 2021. Toate drepturile rezervate.</p>
+</div>
+		</div></div><div class="vc_empty_space  vc_custom_1487255099849 height_small" style="height: 2rem"><span class="vc_empty_space_inner"></span></div></div></div></div></div></footer><!-- /.footer_wrap -->
+
+		</div><!-- /.page_wrap -->
+
+	</div><!-- /.body_wrap -->
+
+	
+			<script type="text/javascript">
+			var ajaxRevslider;
+			function rsCustomAjaxContentLoadingFunction() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content	= '';
+					var data	= {
+						action:			'revslider_ajax_call_front',
+						client_action:	'get_slider_html',
+						token:			'ff71cbad2d',
+						type:			obj.type,
+						id:				obj.id,
+						aspectratio:	obj.aspectratio
+					};
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:		'post',
+						url:		'https://www.ilcantuccio.ro/wp-admin/admin-ajax.php',
+						dataType:	'json',
+						data:		data,
+						async:		false,
+						success:	function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error:		function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector + ' .rev_slider').revkill();
+				};
+
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION				
+				if (jQuery.fn.tpessential !== undefined) 					
+					if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') 
+						jQuery.fn.tpessential.defaults.ajaxTypes.push({type: 'revslider', func: ajaxRevslider, killfunc: ajaxRemoveRevslider, openAnimationSpeed: 0.3});   
+						// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+						// func: the Function Name which is Called once the Item with the Post Type has been clicked
+						// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+						// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)					
+			}
+			
+			var rsCustomAjaxContent_Once = false
+			if (document.readyState === "loading") 
+				document.addEventListener('readystatechange',function(){
+					if ((document.readyState === "interactive" || document.readyState === "complete") && !rsCustomAjaxContent_Once) {
+						rsCustomAjaxContent_Once = true;
+						rsCustomAjaxContentLoadingFunction();
+					}
+				});
+			else {
+				rsCustomAjaxContent_Once = true;
+				rsCustomAjaxContentLoadingFunction();
+			}					
+		</script>
+		<div id="pum-2915" class="pum pum-overlay pum-theme-2906 pum-theme-lightbox popmake-overlay auto_open click_open" data-popmake="{&quot;id&quot;:2915,&quot;slug&quot;:&quot;livrari&quot;,&quot;theme_id&quot;:2906,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-2915&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;path&quot;:&quot;1&quot;,&quot;time&quot;:&quot;1 month&quot;}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:[&quot;pum-2915&quot;],&quot;delay&quot;:&quot;1000&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;custom&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;50%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;375px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+
+	<div id="popmake-2915" class="pum-container popmake theme-2906 size-custom">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<p style="text-align: center;">Livram doar in sectoarele 3, 4, 5.<br>
+Va multumim!</p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			&times;            </button>
+		
+	</div>
+
+</div>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.ilcantuccio.ro/wp-admin/admin-ajax.php";
+</script>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<link property="stylesheet" rel="stylesheet" id="js_composer_front-css" href="../css/js_composer.min.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="vc_font_awesome_5_shims-css" href="../css/v4-shims.min.css" type="text/css" media="all">
+<link property="stylesheet" rel="stylesheet" id="vc_font_awesome_5-css" href="../css/all.min.css" type="text/css" media="all">
+<script type="text/javascript" src="../js/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wp-polyfill-js-after">
+( 'fetch' in window ) || document.write( '<script src="https://www.ilcantuccio.ro/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.ilcantuccio.ro/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.ilcantuccio.ro/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.ilcantuccio.ro/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.ilcantuccio.ro/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.ilcantuccio.ro/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type="text/javascript" src="../js/i18n.min.js" id="wp-i18n-js"></script>
+<script type="text/javascript" src="../js/lodash.min.js" id="lodash-js"></script>
+<script type="text/javascript" id="lodash-js-after">
+window.lodash = _.noConflict();
+</script>
+<script type="text/javascript" src="../js/url.min.js" id="wp-url-js"></script>
+<script type="text/javascript" src="../js/hooks.min.js" id="wp-hooks-js"></script>
+<script type="text/javascript" id="wp-api-fetch-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2021-03-24 11:55:54+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n % 100 >= 2 && n % 100 <= 19) ? 1 : 2);","lang":"ro"},"You are probably offline.":["Probabil e\u0219ti offline."],"Media upload failed. If this is a photo or a large image, please scale it down and try again.":["\u00cenc\u0103rcarea elementului media a e\u0219uat. Dac\u0103 este o fotografie sau o imagine mare, te rog s\u0103-i reduci dimensiunile \u0219i \u00eencearc\u0103 din nou."],"An unknown error occurred.":["A ap\u0103rut o eroare necunoscut\u0103."],"The response is not a valid JSON response.":["R\u0103spunsul nu este un r\u0103spuns JSON valid."]}},"comment":{"reference":"wp-includes\/js\/dist\/api-fetch.js"}} );
+</script>
+<script type="text/javascript" src="../js/api-fetch.min.js" id="wp-api-fetch-js"></script>
+<script type="text/javascript" id="wp-api-fetch-js-after">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://www.ilcantuccio.ro/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "323bbaaace" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://www.ilcantuccio.ro/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/index.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="../js/swiper.jquery.min.js" id="swiperslider-js"></script>
+<script type="text/javascript" src="../js/jquery.magnific-popup.min.js" id="magnific-popup-js"></script>
+<script type="text/javascript" src="../js/menu.js" id="trx_addons-sc_layouts_menu-js"></script>
+<script type="text/javascript" id="trx_addons-js-extra">
+/* <![CDATA[ */
+var TRX_ADDONS_STORAGE = {"ajax_url":"https:\/\/www.ilcantuccio.ro\/wp-admin\/admin-ajax.php","ajax_nonce":"a3f9e82f81","site_url":"https:\/\/www.ilcantuccio.ro","post_id":"0","vc_edit_mode":"0","popup_engine":"magnific","animate_inner_links":"0","user_logged_in":"0","email_mask":"^([a-zA-Z0-9_\\-]+\\.)*[a-zA-Z0-9_\\-]+@[a-z0-9_\\-]+(\\.[a-z0-9_\\-]+)*\\.[a-z]{2,6}$","msg_ajax_error":"Invalid server answer!","msg_magnific_loading":"Loading image","msg_magnific_error":"Error loading image","msg_error_like":"Error saving your like! Please, try again later.","msg_field_name_empty":"The name can't be empty","msg_field_email_empty":"Too short (or empty) email address","msg_field_email_not_valid":"Invalid email address","msg_field_text_empty":"The message text can't be empty","msg_search_error":"Search error! Try again later.","msg_send_complete":"Send message complete!","msg_send_error":"Transmit failed!","ajax_views":"","menu_cache":[],"login_via_ajax":"1","msg_login_empty":"The Login field can't be empty","msg_login_long":"The Login field is too long","msg_password_empty":"The password can't be empty and shorter then 4 characters","msg_password_long":"The password is too long","msg_login_success":"Login success! The page should be reloaded in 3 sec.","msg_login_error":"Login failed!","msg_not_agree":"Please, read and check 'Terms and Conditions'","msg_email_long":"E-mail address is too long","msg_email_not_valid":"E-mail address is invalid","msg_password_not_equal":"The passwords in both fields are not equal","msg_registration_success":"Registration success! Please log in!","msg_registration_error":"Registration failed!","scroll_to_anchor":"1","update_location_from_anchor":"0","msg_sc_googlemap_not_avail":"Googlemap service is not available","msg_sc_googlemap_geocoder_error":"Error while geocode address"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/trx_addons.js" id="trx_addons-js"></script>
+<script type="text/javascript" src="../js/js.cookie.min.js" id="js-cookie-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/woocommerce.min.js" id="woocommerce-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_a8bf917a54c715525653381b0ddad5a7","fragment_name":"wc_fragments_a8bf917a54c715525653381b0ddad5a7","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/cart-fragments.min.js" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" src="../js/core.min.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="../js/position.min.js" id="jquery-ui-position-js"></script>
+<script type="text/javascript" id="popup-maker-site-js-extra">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.16.1","pm_dir_url":"https:\/\/www.ilcantuccio.ro\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/www.ilcantuccio.ro\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.ilcantuccio.ro\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"2905","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"analytics_route":"analytics","analytics_api":"https:\/\/www.ilcantuccio.ro\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.ilcantuccio.ro\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-2915":{"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-2915"],"delay":"1000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-2915","key":"","session":false,"path":"1","time":"1 month"}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"2906","size":"custom","responsive_min_width":"0%","responsive_max_width":"50%","custom_width":"375px","custom_height_auto":true,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":2915,"slug":"livrari"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/pum-site-scripts.js" id="popup-maker-site-js"></script>
+<script type="text/javascript" src="../js/superfish.js" id="superfish-js"></script>
+<script type="text/javascript" id="fooddy-init-js-extra">
+/* <![CDATA[ */
+var FOODDY_STORAGE = {"ajax_url":"https:\/\/www.ilcantuccio.ro\/wp-admin\/admin-ajax.php","ajax_nonce":"a3f9e82f81","site_url":"https:\/\/www.ilcantuccio.ro","site_scheme":"scheme_default","user_logged_in":"","mobile_layout_width":"767","menu_side_stretch":"1","menu_side_icons":"1","background_video":"","use_mediaelements":"1","message_maxlength":"1000","admin_mode":"","email_mask":"^([a-zA-Z0-9_\\-]+\\.)*[a-zA-Z0-9_\\-]+@[a-z0-9_\\-]+(\\.[a-z0-9_\\-]+)*\\.[a-z]{2,6}$","strings":{"ajax_error":"Invalid server answer!","error_global":"Error data validation!","name_empty":"The name can&#039;t be empty","name_long":"Too long name","email_empty":"Too short (or empty) email address","email_long":"Too long email address","email_not_valid":"Invalid email address","text_empty":"The message text can&#039;t be empty","text_long":"Too long message text"},"alter_link_color":"#ffbd2f","button_hover":"slide_left"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/__scripts.js" id="fooddy-init-js"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+var mejsL10n = {"language":"ro","strings":{"mejs.download-file":"Descarc\u0103 fi\u0219ierul","mejs.install-flash":"Folose\u0219ti un navigator care nu are activat sau instalat Flash Player. Te rog porne\u0219te-\u021bi modulul Flash Player sau descarc\u0103 cea mai recent\u0103 versiune de la https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Ecran complet","mejs.play":"Ruleaz\u0103","mejs.pause":"Pauz\u0103","mejs.time-slider":"Durat\u0103 carusel","mejs.time-help-text":"Folose\u0219te tastele s\u0103geat\u0103 st\u00e2nga\/dreapta pentru a \u00eenainta o secund\u0103, s\u0103geat\u0103 sus\/jos pentru a \u00eenainta zece secunde.","mejs.live-broadcast":"Transmisie \u00een direct","mejs.volume-help-text":"Folose\u0219te tastele s\u0103geat\u0103 sus\/jos pentru a m\u0103ri sau mic\u0219ora volumul.","mejs.unmute":"Porne\u0219te sunet","mejs.mute":"Opre\u0219te sonorul","mejs.volume-slider":"Volum carusel","mejs.video-player":"Player video","mejs.audio-player":"Player audio","mejs.captions-subtitles":"Texte asociate\/subtitr\u0103ri","mejs.captions-chapters":"Capitole","mejs.none":"Nespecificat","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanez\u0103","mejs.arabic":"Arab\u0103","mejs.belarusian":"Bielorus\u0103","mejs.bulgarian":"Bulgar\u0103","mejs.catalan":"Catalan\u0103","mejs.chinese":"Chinez\u0103","mejs.chinese-simplified":"Chinez\u0103 (simplificat\u0103)","mejs.chinese-traditional":"Chinez\u0103 (tradi\u021bional\u0103)","mejs.croatian":"Croat\u0103","mejs.czech":"Ceh\u0103","mejs.danish":"Danez\u0103","mejs.dutch":"Olandez\u0103","mejs.english":"Englez\u0103","mejs.estonian":"Eston\u0103","mejs.filipino":"Filipinez\u0103","mejs.finnish":"Finlandez\u0103","mejs.french":"Francez\u0103","mejs.galician":"Galician\u0103","mejs.german":"German\u0103","mejs.greek":"Greac\u0103","mejs.haitian-creole":"Creol\u0103 haitian\u0103","mejs.hebrew":"Ebraic\u0103","mejs.hindi":"Hindus\u0103","mejs.hungarian":"Maghiar\u0103","mejs.icelandic":"Islandez\u0103","mejs.indonesian":"Indonezian\u0103","mejs.irish":"Irlandez\u0103","mejs.italian":"Italian\u0103","mejs.japanese":"Japonez\u0103","mejs.korean":"Coreean\u0103","mejs.latvian":"Leton\u0103","mejs.lithuanian":"Lituanian\u0103","mejs.macedonian":"Macedonean\u0103","mejs.malay":"Malaiez\u0103","mejs.maltese":"Maltez\u0103","mejs.norwegian":"Norvegian\u0103","mejs.persian":"Persan\u0103","mejs.polish":"Polonez\u0103","mejs.portuguese":"Portughez\u0103","mejs.romanian":"Rom\u00e2n\u0103","mejs.russian":"Rus\u0103","mejs.serbian":"S\u00e2rb\u0103","mejs.slovak":"Slovac\u0103","mejs.slovenian":"Sloven\u0103","mejs.spanish":"Spaniol\u0103","mejs.swahili":"Swahili","mejs.swedish":"Suedez\u0103","mejs.tagalog":"Tagalog","mejs.thai":"Thailandez\u0103","mejs.turkish":"Turc\u0103","mejs.ukrainian":"Ucrainean\u0103","mejs.vietnamese":"Vietnamez\u0103","mejs.welsh":"Galez\u0103","mejs.yiddish":"Idi\u0219"}};
+</script>
+<script type="text/javascript" src="../js/mediaelement-and-player.min.js" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="../js/mediaelement-migrate.min.js" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/wp-mediaelement.min.js" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="../js/wp-embed.min.js" id="wp-embed-js"></script>
+<script type="text/javascript" src="../js/js_composer_front.min.js" id="wpb_composer_front_js-js"></script>
+<a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up" title="Scroll to top"></a>
+</body>
+</html>

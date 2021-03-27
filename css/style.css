@@ -1,0 +1,86 @@
+@charset 'utf-8';
+/*
+ Theme Name:   Fooddy Child
+ Theme URI:    http://fooddy.ancorathemes.com/
+ Description:  Fooddy - Fully Responsive and Mobile Friendly theme
+ Author:       AncoraThemes
+ Author URI:   http://ancorathemes.com/
+ Template:     fooddy
+ Version:      1.0
+ Tags:         light, inheritable theme-options
+ Text Domain:  fooddy
+*/
+
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+#texte {
+    color:#89191d;
+}
+
+.vc_custom_1486464309994, #nodesktop {
+display:none;
+visibility:hidden;
+}
+
+@media screen and (max-width: 750px) {
+	#nomobile {
+	display: none;
+	visibility:hidden;
+	}
+
+	#nodesktop {
+	display: block;
+	visibility:visible;
+	}
+}
+
+
+.logo_image {
+max-height:80px !important;
+}
+
+.sc_layouts_row_type_narrow .socials_wrap .social_item a {
+width: 2em;
+height: 2em;
+line-height: 2em;
+}
+
+
+.floatright {
+display:inline;
+}
+
+.widget:not(.widget_recent_comments) li {
+font-size:16px;
+}
+
+
+input[type="radio"], input[type="checkbox"] {
+display: inline;
+}
+
+input[type="checkbox"]:checked + span::before {
+content: '+';
+}
+
+
+form input[type="checkbox"]:checked + span::before {
+content: '+';
+background-color:#fff !important;
+}
+
+table.extra-options .label-tag {
+display:inline-block !important;
+}
+
+.scheme_default table > tbody td {
+background-color: #fff !important;
+}
+
+.trspace {
+display: block;
+margin-bottom:15px;
+}
